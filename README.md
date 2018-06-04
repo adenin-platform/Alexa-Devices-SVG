@@ -12,7 +12,7 @@ Our marketing department made these Alexa devices as vector graphics as we didn'
 <img width="75px" src="https://github.com/NowAssistant/Alexa-Devices-SVG/blob/master/Amazon_Echo.svg">
 
 # How to use these
-Just download the repo to your local hard drive and use the SVGs wherever you desire. Even though a backlink to our [website](https://www.adenin.com/) isn't necessary, we for sure would apprecciate it.
+Just download the repo to your local hard drive and use the SVGs wherever you desire. A backlink to our [website](https://www.adenin.com/) would be very much apprecciated.
 
 # Wanna know why we made these?
 We have a cool Digital Assistant for businesses called [Now Assistant](https://www.adenin.com/now-assistant/) and that integrates with other smart assistant devices, among them an [Alexa for business integration](https://www.adenin.com/now-assistant/features/alexa-for-business/). Hence we made these device frames. :-)
