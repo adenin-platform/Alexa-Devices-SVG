@@ -2,13 +2,13 @@
 
 Our marketing department made these Alexa devices as vector graphics as we didn't find any usable frames elsewhere on the web. It took us quite a while, so we wanted to share these with other designer that might find them useful.
 
-> Amazon Alexa Echo Show device frame(filetype: SVG)
+> Amazon Alexa Echo Show device frame (filetype SVG)
 <img height="200px;" src="https://github.com/NowAssistant/Alexa-Devices-SVG/blob/master/Echo_Show.svg">
 
-> Amazon Alexa Echo Spot device frame (filetype: SVG)
+> Amazon Alexa Echo Spot device frame (filetype SVG)
 <img height="200px" src="https://github.com/NowAssistant/Alexa-Devices-SVG/blob/master/Echo_Spot.svg">
 
-> Amazon Alexa Echo original device frame (filetype: SVG)
+> Amazon Alexa Echo original device frame (filetype SVG)
 <img width="75px" src="https://github.com/NowAssistant/Alexa-Devices-SVG/blob/master/Amazon_Echo.svg">
 
 # How to use these
